@@ -244,7 +244,7 @@
 
 
 var typed = new Typed(".typing",{
-    strings: ["Car Lover","Developer","Lpu verto","Full stack developer"],
+    strings: ["Car Lover","","Lpu verto","Full stack developer","BlockChain Enthusiast"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
